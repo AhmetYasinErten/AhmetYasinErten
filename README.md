@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C#</p>
+<p align="left">📚 I'm currently learning HTML and CSS also ı develop myself in python
+</p>
 
 ###
 
