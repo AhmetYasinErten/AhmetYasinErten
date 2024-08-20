@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently develop myself in python</p>
+<p align="left">📚 I'm currently develop myself in Python and C</p>
 
 ###
 
