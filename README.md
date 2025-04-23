@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I have been interested in computer science, robotics and programming since primary school, and now i'm 15 years old.  I am gaining experience in these subjects day by day.</h2>
+<h2 align="left">I have been interested in computer science, robotics and programming since primary school, and now i'm 16 years old.  I am gaining experience in these subjects day by day.</h2>
 
 ###
 
